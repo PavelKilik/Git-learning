@@ -1,3 +1,6 @@
 FileList.txt
 ./BobsFiles/QWERTY.txt
-./JanesFiles/KKMRT.txt
+
+
+JanesFiles/Kopr94.txt
+JanesFiles/Rupl27.txt
